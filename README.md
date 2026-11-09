@@ -60,20 +60,14 @@ Grounded in contemporary learning sciences, do4learn empowers students to evalua
 Graduate and undergraduate dissertation completion suffers from lack of transparent structure and milestone visibility. do4learn introduces an end-to-end, weighted thesis governance pipeline:
 
 ```mermaid
-graph TD
-    A[1. Preparation] --> B[2. Research Design]
-    B --> C[3. Data Collection]
-    C --> D[4. Analysis & Synthesis]
-    D --> E[5. Scientific Writing]
-    E --> F[6. Review & Alignment]
-    F --> G[7. Defense Preparation]
-    G --> H[8. Final Delivery & Archival]
-    
-    subgraph Highlights
-    A -.->|Databases, Ethics & AI Boundaries| A
-    B -.->|Problem Formulation & Methodology| B
-    E -.->|Academic Rigor & Bibliography| E
-    end
+flowchart TD
+    A["1. Preparation"] --> B["2. Research Design"]
+    B --> C["3. Data Collection"]
+    C --> D["4. Analysis & Synthesis"]
+    D --> E["5. Scientific Writing"]
+    E --> F["6. Review & Alignment"]
+    F --> G["7. Defense Preparation"]
+    G --> H["8. Final Delivery & Archival"]
 ```
 
 - **Phase 1: Preparation:** Modality selection, research schedule, scientific databases, reference managers, backup/version control, and **explicit ethical AI boundaries**.
@@ -153,25 +147,25 @@ do4learn organizes institutional workflows into three clearly separated user tie
 do4learn leverages a reactive, decoupled, serverless architecture that guarantees real-time synchronization, high availability, and minimal operational overhead.
 
 ```mermaid
-graph LR
-    subgraph Client Layer [Cross-Platform Client (Flutter 3.x)]
-        Web[Web Browser PWA / WebGL]
-        Android[Android Mobile App]
-        State[Provider State Management]
-        i18n[EasyLocalization - 12 Locales]
-        Charts[Syncfusion Interactive Charts]
+flowchart LR
+    subgraph ClientLayer["Cross-Platform Client (Flutter 3.x)"]
+        Web["Web Browser (PWA / WebGL)"]
+        Android["Android Mobile App"]
+        State["Provider State Management"]
+        i18n["EasyLocalization (12 Locales)"]
+        Charts["Syncfusion Interactive Charts"]
     end
 
-    subgraph Backend Cloud [Google Cloud & Firebase Serverless]
-        Auth[Firebase Authentication (OAuth & Email)]
-        Firestore[(Cloud Firestore NoSQL Database)]
-        RemoteConfig[Firebase Remote Config (OTA Updates)]
-        Hosting[Firebase Hosting CDN]
+    subgraph BackendCloud["Google Cloud & Firebase Serverless"]
+        Auth["Firebase Authentication (OAuth & Email)"]
+        Firestore[("Cloud Firestore NoSQL Database")]
+        RemoteConfig["Firebase Remote Config (OTA Updates)"]
+        Hosting["Firebase Hosting CDN"]
     end
 
-    subgraph Intelligence & Services [AI & Integrations]
-        Dialogflow[Conversational AI Engine]
-        Exporter[Multiplatform File/CSV Exporter]
+    subgraph IntelligenceServices["AI & Data Services"]
+        Dialogflow["Conversational AI Engine"]
+        Exporter["Multiplatform File/CSV Exporter"]
     end
 
     Web --> State

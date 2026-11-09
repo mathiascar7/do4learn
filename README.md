@@ -124,16 +124,26 @@ do4learn organizes institutional workflows into three clearly separated user tie
 
 ## 📸 Platform Interface & Visual Analytics
 
+### 1. Onboarding, Identity & Course Management
 <p align="center">
-  <img src="assets/images/coursedetails.png" alt="Course Management & Details" width="30%" />
-  <img src="assets/images/studentactivities.png" alt="Student Activities Hub" width="30%" />
-  <img src="assets/images/learningprofile.png" alt="Personalized Learning Profile" width="30%" />
+  <img src="assets/images/flutter_05.png" alt="Authentication & Onboarding" width="24%" />
+  <img src="assets/images/flutter_03.png" alt="Platform Overview & Features" width="24%" />
+  <img src="assets/images/coursedetails.png" alt="Course Management & Details" width="24%" />
+  <img src="assets/images/studentactivities.png" alt="Student Activities Hub" width="24%" />
+</p>
+<p align="center">
+  <em>(1) Secure Authentication & Role Login &nbsp;|&nbsp; (2) Welcome & Platform Overview &nbsp;|&nbsp; (3) Course Management & Controls &nbsp;|&nbsp; (4) Student Activities Workspace</em>
 </p>
 
+### 2. Pedagogical Assessment & Dissertation Governance
 <p align="center">
-  <img src="assets/images/feedback.png" alt="Formative Feedback Engine" width="30%" />
-  <img src="assets/images/thesisreview.png" alt="8-Phase Thesis Tracker" width="30%" />
-  <img src="assets/images/thesisreviewsummary.png" alt="Thesis Visual Analytics Summary" width="30%" />
+  <img src="assets/images/learningprofile.png" alt="Personalized Learning Profile" width="24%" />
+  <img src="assets/images/feedback.png" alt="Formative Micro-Feedback" width="24%" />
+  <img src="assets/images/thesisreview.png" alt="8-Phase Thesis Tracker" width="24%" />
+  <img src="assets/images/thesisreviewsummary.png" alt="Thesis Visual Analytics Summary" width="24%" />
+</p>
+<p align="center">
+  <em>(5) Metacognitive Learning Profile Diagnostic &nbsp;|&nbsp; (6) Real-Time Formative Micro-Feedback &nbsp;|&nbsp; (7) 8-Phase Structured Thesis Tracker &nbsp;|&nbsp; (8) Thesis Visual Analytics Summary</em>
 </p>
 
 ---

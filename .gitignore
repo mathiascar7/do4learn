@@ -77,9 +77,15 @@ app.*.map.json
 *.ipa
 
 # Temporary scratch logs and dumps
-flutter*.png
+/flutter_01.png
+/flutter_02.png
+/flutter_04.png
 file_exporter*.txt
 flutter.txt
+
+# Preserve all assets
+!assets/**
+!assets/images/**
 
 # -----------------------------------------------------------------------------
 # Android

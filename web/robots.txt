@@ -1,0 +1,65 @@
+User-agent: *
+# ✅ Páginas públicas permitidas
+Allow: /
+Allow: /about
+Allow: /signup
+
+# ✅ Versiones multidioma (Home + About + Signup)
+Allow: /ar/
+Allow: /ar/about
+Allow: /ar/signup
+
+Allow: /bn/
+Allow: /bn/about
+Allow: /bn/signup
+
+Allow: /de/
+Allow: /de/about
+Allow: /de/signup
+
+Allow: /en/
+Allow: /en/about
+Allow: /en/signup
+
+Allow: /es/
+Allow: /es/about
+Allow: /es/signup
+
+Allow: /fr/
+Allow: /fr/about
+Allow: /fr/signup
+
+Allow: /hi/
+Allow: /hi/about
+Allow: /hi/signup
+
+Allow: /it/
+Allow: /it/about
+Allow: /it/signup
+
+Allow: /ja/
+Allow: /ja/about
+Allow: /ja/signup
+
+Allow: /pt/
+Allow: /pt/about
+Allow: /pt/signup
+
+Allow: /ru/
+Allow: /ru/about
+Allow: /ru/signup
+
+Allow: /zh/
+Allow: /zh/about
+Allow: /zh/signup
+
+# ❌ Bloquea páginas privadas
+Disallow: /profile
+Disallow: /courses
+Disallow: /settings
+Disallow: /chat
+Disallow: /activities
+Disallow: /login
+
+# 📌 Sitemap principal
+Sitemap: https://do4learn.web.app/sitemap.xml

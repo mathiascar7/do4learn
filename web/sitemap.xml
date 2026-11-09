@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Página principal -->
+  <url>
+    <loc>https://do4learn.web.app/</loc>
+    <lastmod>2025-12-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://do4learn.web.app/ar/" />
+    <xhtml:link rel="alternate" hreflang="bn" href="https://do4learn.web.app/bn/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://do4learn.web.app/de/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://do4learn.web.app/en/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://do4learn.web.app/es/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://do4learn.web.app/fr/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://do4learn.web.app/hi/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://do4learn.web.app/it/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://do4learn.web.app/ja/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://do4learn.web.app/pt/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://do4learn.web.app/ru/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://do4learn.web.app/zh/" />
+  </url>
+
+  <!-- Página About -->
+  <url>
+    <loc>https://do4learn.web.app/about</loc>
+    <lastmod>2025-12-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://do4learn.web.app/ar/about" />
+    <xhtml:link rel="alternate" hreflang="bn" href="https://do4learn.web.app/bn/about" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://do4learn.web.app/de/about" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://do4learn.web.app/en/about" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://do4learn.web.app/es/about" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://do4learn.web.app/fr/about" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://do4learn.web.app/hi/about" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://do4learn.web.app/it/about" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://do4learn.web.app/ja/about" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://do4learn.web.app/pt/about" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://do4learn.web.app/ru/about" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://do4learn.web.app/zh/about" />
+  </url>
+
+  <!-- Página Signup -->
+  <url>
+    <loc>https://do4learn.web.app/signup</loc>
+    <lastmod>2025-12-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://do4learn.web.app/ar/signup" />
+    <xhtml:link rel="alternate" hreflang="bn" href="https://do4learn.web.app/bn/signup" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://do4learn.web.app/de/signup" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://do4learn.web.app/en/signup" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://do4learn.web.app/es/signup" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://do4learn.web.app/fr/signup" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://do4learn.web.app/hi/signup" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://do4learn.web.app/it/signup" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://do4learn.web.app/ja/signup" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://do4learn.web.app/pt/signup" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://do4learn.web.app/ru/signup" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://do4learn.web.app/zh/signup" />
+  </url>
+
+</urlset>

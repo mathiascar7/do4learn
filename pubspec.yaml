@@ -1,0 +1,95 @@
+name: four_learn
+description: "4Learn is a free app that makes learning and teaching simple."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  firebase_remote_config: ^6.0.2
+  url_launcher: ^6.1.14
+  dialog_flowtter: 0.2.0-nullsafety.0
+  http: ^1.1.0
+  crypto: ^3.0.3
+  dart_jsonwebtoken: ^2.4.1
+
+  permission_handler: ^11.3.0
+
+  flutter:
+    sdk: flutter
+
+  flutter_web_plugins:
+    sdk: flutter
+
+  share_plus: ^12.0.0
+  path_provider: ^2.0.15
+  csv: ^6.0.0
+
+
+  # UI
+  cupertino_icons: ^1.0.8
+
+  # Firebase
+  firebase_core: ^4.1.1
+  firebase_auth: 6.1.0
+  cloud_firestore: ^6.0.2
+  google_sign_in: 6.1.4
+
+  # State management
+  provider: ^6.1.2
+
+  # Date and time formatting
+  intl: ^0.20.2
+
+  # Localization
+  easy_localization: ^3.0.5
+  shared_preferences: ^2.0.18
+  flutter_localizations:
+    sdk: flutter
+
+  # Gráficos modernos
+  syncfusion_flutter_charts: ^31.1.22
+
+  collection: any
+
+
+dev_dependencies:
+  flutter_launcher_icons: ^0.13.1
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/langs/ar.json
+    - assets/langs/bn.json
+    - assets/langs/de.json
+    - assets/langs/en.json
+    - assets/langs/es.json
+    - assets/langs/fr.json
+    - assets/langs/hi.json
+    - assets/langs/it.json
+    - assets/langs/ja.json
+    - assets/langs/pt.json
+    - assets/langs/ru.json
+    - assets/langs/zh.json
+    - assets/4learn_logo.png
+    - assets/google_logo.png
+    - assets/dialog_flow_auth.json
+    - assets/images/learningprofile.png
+    - assets/images/thesisreview.png
+    - assets/images/feedback.png
+    - assets/images/coursedetails.png
+    - assets/images/studentactivities.png
+    - assets/images/thesisreviewsummary.png
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/4learn_icon.png"
+

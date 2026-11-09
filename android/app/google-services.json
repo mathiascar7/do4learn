@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1020698825445",
+    "project_id": "do4learn",
+    "storage_bucket": "do4learn.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020698825445:android:5f7d25505a052b62d0ba0c",
+        "android_client_info": {
+          "package_name": "com.mathias7.do4learn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020698825445-0f78jpl997141scldilsq89kroc7evt6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mathias7.do4learn",
+            "certificate_hash": "a09c448e0d52bf4c4f4817a1673832e2a4f8de33"
+          }
+        },
+        {
+          "client_id": "1020698825445-rk9vh4nu19i9fpfottn4bgqqrbmq29h1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgXsuRjSReyTgoaJrVM2qQRtAziHk96qA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020698825445-rk9vh4nu19i9fpfottn4bgqqrbmq29h1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1020698825445-mdh7s993bhijsot72lqd3h8s7hjle0u0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mathias7.thesischeck"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
